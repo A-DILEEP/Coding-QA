@@ -1,8 +1,9 @@
 #include <bits/stdc++.h>
 using namespace std;
-int printRoman(int number)
+void printRoman(int number)
 {
   int value=number;
+  string res="";
   int num[] = {1, 4, 5, 9, 10, 40, 50, 90, 100, 400, 500, 900, 1000};
   string sym[] = {"I", "IV", "V", "IX", "X", "XL", "L", "XC", "C", "CD", "D", "CM", "M"};
   int i = 12;
@@ -12,11 +13,11 @@ int printRoman(int number)
     number = number % num[i];
     while (div--)
     {
-      cout << "Roman numerical for " << value << " is :" << sym[i];
+      res+=sym[i];
     }
     i--;
   }
-  return 0;
+  cout<<"Roman Numerical for "<<value<<"is :"<<res;
 }
 
 int main()
