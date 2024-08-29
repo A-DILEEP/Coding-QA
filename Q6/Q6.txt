@@ -1,0 +1,16 @@
+Problem: Balanced Parentheses
+
+Description:
+
+Given a string containing just the characters '(', ')', '{', '}', '[', and ']', determine if the input string's parentheses are balanced. An input string is balanced if the brackets are closed in the correct order.
+
+Example 1:
+
+Input: "({[]})"
+Output: true (The parentheses are balanced.)
+
+EX:2-- 
+
+Input: "({[})"
+
+Output: false (The parentheses are not balanced.)
