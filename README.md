@@ -11,3 +11,7 @@
 [[Q5 : maximize your profit ](Q5/Q5.txt)] </br>
 
 [[Q6 : Balanced Parentheses ](Q6/Q6.txt)] </br>
+
+[[Q7 : Reverse words in a string ](Q7/Q7.txt)] </br>
+
+[[Q8 : Modified concatenation of the three words ](Q8/Q8.txt)] </br>
