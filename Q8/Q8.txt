@@ -1,0 +1,41 @@
+Problem Statement
+
+
+
+Write the program will receive 3 English word inputs from STDIN.
+
+
+
+-- These three words will be read one at a time, in three separate lines.
+-- The first word should be changed like all vowels should be replaced by %.
+-- The second word should be changed like all consonants should be replaced by #.
+-- The third word should be changed like all char should be converted to upper case.
+
+Then concatenate the three words and print them.
+
+
+For example, if you print how are you, the output should be h%wa#eYOU.
+
+Note: You can assume that the input of each word will not exceed more than 5 chars 
+
+Input format :
+The first line consists of a string, representing the first word.
+The second line consists of a string, representing the second word.
+The third line consists of a string, representing the third word.
+
+Output format :
+The output displays a single line containing the modified concatenation of the three words, according to the specified conditions.
+
+Input 1 :
+how
+are
+you
+
+Output 1 : h%wa#eYOU
+
+Input 2 :
+Chennai
+Super
+Kings
+
+Output 2 : Ch%nn%%#u#e#KINGS
