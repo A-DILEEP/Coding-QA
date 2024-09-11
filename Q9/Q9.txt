@@ -1,0 +1,11 @@
+Question : 
+
+change the char in a string which have most frequent appearing char in that word with the given character
+
+
+input: aabaccdbbbcbba
+t
+
+output: aataccdtttctta
+
+Explanation : "b" occurs more time in input string , so replace it with the character t and print the new String after changing
