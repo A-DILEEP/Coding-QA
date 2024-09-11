@@ -15,3 +15,5 @@
 [[Q7 : Reverse words in a string ](Q7/Q7.txt)] </br>
 
 [[Q8 : Modified concatenation of the three words ](Q8/Q8.txt)] </br>
+
+[[Q9 : Replace most occuring character with the given character in a string](Q9/Q9.txt)] </br>
