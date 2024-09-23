@@ -14,7 +14,6 @@ int main()
     {
         if(arr[i]>arr[i-1]){
             profit=profit+(arr[i]-arr[i-1]);
-
         }
     }
     cout<<profit;
