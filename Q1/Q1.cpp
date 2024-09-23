@@ -17,7 +17,7 @@ class solution{
 };
 int main(){
 
-    vector<int> vector{21,2,4,7,0,4,12,32};
+    vector<int> vector={21,2,4,7,0,4,12,32};
     int target;
     cout<<"Enter the target :";
     cin>>target;
