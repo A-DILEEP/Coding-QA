@@ -17,7 +17,7 @@ void printRoman(int number)
     }
     i--;
   }
-  cout<<"Roman Numerical for "<<value<<"is :"<<res;
+  cout<<"Roman Numerical for "<<value<<" is :"<<res;
 }
 
 int main()
