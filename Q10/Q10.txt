@@ -1,0 +1,6 @@
+Find the extra character from given 2 strings 
+
+input1 : apple
+input2 : apxple
+
+output : x

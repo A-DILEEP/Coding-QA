@@ -17,3 +17,5 @@
 [[Q8 : Modified concatenation of the three words ](Q8/Q8.txt)] </br>
 
 [[Q9 : Replace most occuring character with the given character in a string](Q9/Q9.txt)] </br>
+
+[[Q10 : Find the extra character from given 2 strings ](Q10/Q10.txt)] </br>
