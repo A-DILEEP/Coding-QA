@@ -19,3 +19,5 @@
 [[Q9 : Replace most occuring character with the given character in a string](Q9/Q9.txt)] </br>
 
 [[Q10 : Find the extra character from given 2 strings ](Q10/Q10.txt)] </br>
+
+[[Q11 : Check Panagram ](Q11/Q11.txt)] </br>
