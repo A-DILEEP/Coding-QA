@@ -1,0 +1,5 @@
+Check Panagram 
+
+Input: “The quick brown fox jumps over the lazy dog” 
+Output: is a Pangram 
+Explanation: Contains all the characters from ‘a’ to ‘z’]
