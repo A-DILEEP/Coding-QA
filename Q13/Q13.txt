@@ -1,0 +1,4 @@
+Print n tribonacci series digits 
+
+input : 7
+output : 0 1 1 2 4 7 13 
