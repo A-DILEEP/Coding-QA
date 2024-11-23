@@ -21,3 +21,9 @@
 [[Q10 : Find the extra character from given 2 strings ](Q10/Q10.txt)] </br>
 
 [[Q11 : Check Panagram ](Q11/Q11.txt)] </br>
+
+[[Q12 : Print n fibonacci series ](Q12/Q12.txt)] </br>
+
+[[Q13 : Print n tribonacci series ](Q13/Q13.txt)] </br>
+
+[[Q14 : Reversing last word and printing remaining sentence without reversing ](Q14/Q14.txt)] </br>
