@@ -1,0 +1,4 @@
+reverse the last word in sentence and print remaining words without reversing 
+
+input : hello i am engine
+output: enigne hello i am
