@@ -27,3 +27,5 @@
 [[Q13 : Print n tribonacci series ](Q13/Q13.txt)] </br>
 
 [[Q14 : Reversing last word and printing remaining sentence without reversing ](Q14/Q14.txt)] </br>
+
+[[Q15 :Take a 2D array and print the values in matrix with spiral way ](Q15/Q15.txt)] </br>
